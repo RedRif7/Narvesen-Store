@@ -1,0 +1,33 @@
+{
+  "1":{
+      "name": "HotDog",
+      "price": 1.90,
+      "quantity": 60
+    },
+  "2":{
+      "name": "IceCream",
+      "price": 3.00,
+      "quantity": 20
+    },
+  "3":{
+      "name": "CarWash",
+      "price": 19.00,
+      "quantity": 100
+    },
+  "4":{
+      "name": "Fuel",
+      "price": 1.90,
+      "quantity": 1000
+    },
+  "5":{
+      "name": "WasherFluid",
+      "price": 4.20,
+      "quantity": 10
+    },
+  "6":{
+      "name": "Water",
+      "price": 1.10,
+      "quantity": 0
+    }
+
+}
